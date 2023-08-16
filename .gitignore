@@ -1,6 +1,7 @@
 /.idea
 
 /.venv
+./build
 /env
 *.pyc
 __pycache__
